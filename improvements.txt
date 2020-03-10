@@ -1,0 +1,4 @@
+change home page styling and font-sizes
+
+change library img and font sizes
+2x wide col for single screen coverage
